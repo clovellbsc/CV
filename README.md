@@ -1,14 +1,29 @@
 ## Chris Lovell
-
-I am currently a student with Makers Academy, which is an intensive coding bootcamp based in London, UK.
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’m an enthusiastic and dedicated software engineer who strives to learn new things daily. Throughout my varied career I’ve learnt to work under immense pressure and adapt to different situations. Along the way, I’ve been able to build great relationships and understand good collaboration within a team. I developed my passion for coding when I downloaded an app on my phone to try it out, as my laptop was not working at that time. I designed a very basic BMI calculator, which I showed off to everyone that would take a look. From there I decided I wanted to move forward with software engineering as my career and that's when I decided to join Makers, an intensie 16 week coding bootcamp. After achieving more than I could ever have dreamed of, I am now seeking a role where I can continue to develop my technical skills in a supportive environment.
 
 ## Projects
 
-| Name                         | Description          | Tech/tools                                              | Link                                            |
-| ---------------------------- | -------------------- | ------------------------------------------------------- | ----------------------------------------------- |
-| **Travel Angel**             | A webapp to do x.    | React, Jest, etc.                                       | https://github.com/adamwoodcock98/travel-angel  |
-| **Koala**                    | A soacial media app. | MongoDB, Express, HandleBars, Node.js, Mongoose and more| https://github.com/adamwoodcock98/acebook-team-codebaddiez-f  |
+| Name                         | Description          | Main Technologies                     | Link                                                          |
+| ---------------------------- | -------------------- | --------------------------------------| ------------------------------------------------------------- |
+| **Travel Angel**             | A travel aid app     | React, MongoDB, Express, Node.js      | https://github.com/adamwoodcock98/travel-angel                |
+| **Koala**                    | A social media app   | MongoDB, Express, HandleBars, Node.js | https://github.com/adamwoodcock98/acebook-team-codebaddiez-f  |
+
+### Travel Angel
+Travel Angel was my final project whilst studying at Makers. I worked alongside four other students in a collaborative and agile way, please check out the link above to see the github repository. This project was a full life cycle development of an application to aid with keeping track of all your travel documents. The idea behind Travel Angel was that when going on holiday there are so many bookings to keep track of with lots of different documents and these are generally spread over a number of emails and printed documents. Our team have had struggles with this exact issue when travelling and will carry a binder or loose documents when going away, so we thought we would try to solve this issue.
+**Technologies Used **
+- React
+- MongoDB Atlas
+- Nodejs
+- Express
+- Jest
+- React testing library
+**Features**
+- Authentication created using Express Session, with passwords encrypted using BCrypt
+- Travel Angel utilises a flight API to autofill flight details using the flight number and date for an easier user experience
+- Storage of details for individual trips separately to improve user experience
+- Uploading and Downloading documents, so that the user can have their documents stored exactly where they need them
+- Fully encapsulating all aspects of travel eg visas, accommodation, flights
+- All exceptions are caught and actioned
 
 ## Work Experience
 
