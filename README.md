@@ -10,6 +10,7 @@ I’m an enthusiastic and dedicated software engineer who strives to learn new t
 
 ### Travel Angel
 Travel Angel was my final project whilst studying at Makers. I worked alongside four other students in a collaborative and agile way, please check out the link above to see the github repository. This project was a full life cycle development of an application to aid with keeping track of all your travel documents. The idea behind Travel Angel was that when going on holiday there are so many bookings to keep track of with lots of different documents and these are generally spread over a number of emails and printed documents. Our team have had struggles with this exact issue when travelling and will carry a binder or loose documents when going away, so we thought we would try to solve this issue.
+
 **Technologies Used **
 - React
 - MongoDB Atlas
@@ -17,6 +18,7 @@ Travel Angel was my final project whilst studying at Makers. I worked alongside 
 - Express
 - Jest
 - React testing library
+
 **Features**
 - Authentication created using Express Session, with passwords encrypted using BCrypt
 - Travel Angel utilises a flight API to autofill flight details using the flight number and date for an easier user experience
@@ -25,24 +27,43 @@ Travel Angel was my final project whilst studying at Makers. I worked alongside 
 - Fully encapsulating all aspects of travel eg visas, accommodation, flights
 - All exceptions are caught and actioned
 
+### Koala
+Koala was a group project that I worked on with 
+
 ## Work Experience
 
 **Metropolitan Police Service** (September 2019 to January 2022)  
 _Police Constable_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-- Worked as a Police Constable in the largest Police Service in the UK. I was based on the Emergency Response Policing Team in the London Borough of Islington, where I worked within a core team of approximately 30 officers. During this time I was put into high pressured situations and had to adapt to them quickly, accurately and as part of a team.
-I had to work in an agile and dynamic way due to unknown variables that I had to deal with, from suspects, to victims, to on-lookers. Any situation could change in the blink of an eye and I would have to assess the full scope of the issue and adapt to the small changes in a way that still successfully managed to fulfil the appropriate outcome.
+- Emergency response policing team based in Islington, London.
+- Documenting statements and reports to the highest of detail.
+- Working in an agile, dynamic and adaptable way to unknown variables with suspects, victims and on-lookers.
+- Learning to become extremely effective in high pressured situations.
+- Keeping up to date with continuously updated legislation and understanding how it affects my role.
 
-**Company Name** (July 2017 to August 2019)  
+**EcoSupport Ltd** (July 2017 to August 2019)  
 _Assistant Ecologist_
 
-- Any experience relevent to software development
+- Identifying different species of animals and insects.
+- Documenting and writing accurate reports ensuring all details were specified.
+- Building relationships with clients, understanding their requirements and ensuring that these were fully met.
+- Created training programme for new employees.
+- Worked independently and within a team.
+- Having to continuously grow to understand new regulations and legislation.
+- Adapting to self-learning whilst ensuring the highest quality of work.
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
+-STAR
+-What was the situation/task? (ST)
+
+-How was the skill used?
+
+-What did you do? (action)
+
+-What was the result?
 
 - eye for detail (necessary to ensure that all evidence was identified at an incident and to ensure all reports and casefiles were accurate to ensure they weren't thrown out at court due to an error) (Ecology: ability to identify the smallest of signs of a protected species and to ensure that all reports going to
 - ability to learn quickly and on the fly - linked to research below
@@ -66,11 +87,13 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Ability to learn quickly and continuation of learning. Teaching. Team Work. Need to add soft skills - public and client facing roles
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- In both my previous careers I had to adapt and learn very quickly. 
+- Whilst at EcoSupport Ltd, I was working on ecological field work from my first day and had to ensure that all legislation was followed completely otherwise our clients could end up breaking the law and have serious ramifications on their financial success.
+- Within EcoSupport after just over a year, I was entrusted with making a training manual that could be used by all staff both present and future across all levels. Due to my approach to learning and excitement over it, I produced a document, which was used by not only new starters but also senior Ecologists at my company.
+- Whilst in the Metropolitan Police Service I undertook an intensive training course and was working as a Constable interacting with the public within just a few months. If I hadn't ensured that I was learning effectively and quickly and identifying where I could gather my information from then it could have had a serious impact on the public and reflect badly on the Police Service as a whole.
+- I took my ability to adapt and learn effectively and implemented it during my course at Makers. My team's final project was created with React for the front-end, which is not a technology that is taught at Makers. I took it upon myself to learn React for my final project. I succesffully learned the fundamentals of React and helped my teammates to understand the technology to the level that we could all feel comfortable utilising this brand new technology for pour final project.
 
 #### Another Skill
 
@@ -83,39 +106,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (January 2022 to May 2022)
+- 16 week intensive coding bootcamp.
+- Learnt and used new modern technologies such as React, Node.Js, Javascript and Ruby.
+- Built features and products from scratch individually and collectively in a group.
+- Full lifecycle development.
+- Led our stand-ups and retros.
+- Mentored an engineer in the upcoming cohort.
+- Taught my team React for our final project.
+- Used Slack and zoom to effectively communicate with the team and coaches.
+- Used Trello to keep organised in the team.
 
+#### University Of Nottingham (2011 - 2016)
 
-- Makers Academy
-Makers is a 16 week intensive bootcampt teaching the fundamentals of software engineering, focusing on:
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
+- Biology
+- 2:2
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-Codecademy Ruby
-Codecademy React
-UK full drivers licence
-Degree in Biology Uni of Notts
-Divemaster
+#### Other qualifications
+- Codecademy Learn Ruby Course
+- Codecademy Learn JavaScript Course
+- Codecademy Learn React Course
+- UK full drivers licence
+- PADI qualified Divemaster
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- As you can see above, I am a PADI Divemaster and absolutley love diving. I haven't had the chance to dive in the last few years and am feeling the pull of the water.
+- I used to play rugby 7 times a week when I was 18 and that passion has continued, although I am no longer playing, I absolutely loved watching England. Less so when they are losing.
+- Travel. It has been too long since I have left the country but love exploring new places and experiencing new cultures. 
