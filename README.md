@@ -88,55 +88,36 @@ _Assistant Ecologist_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
 - eye for detail (necessary to ensure that all evidence was identified at an incident and to ensure all reports and casefiles were accurate to ensure they weren't thrown out at court due to an error) (Ecology: ability to identify the smallest of signs of a protected species and to ensure that all reports going to
-- ability to learn quickly and on the fly - linked to research below
-- ability to adapt
-- long hours when needed
-- calm under pressure - (police - all of it) (ecology - completing all work whilst under pressure from client to hit their deadlines)
+- ability to adapt / calm under pressure - (police - all of it) (ecology - completing all work whilst under pressure from client to hit their deadlines)
 - ability to problem solve - (police - ensuring use of dynamic risk assessment and adapt to changes)
-- research unknown - police + ecology - didn't know all but had to learn how to find answer
 - work independently or part of team - ecology + police
 - leadership - police (leading new people) and ecology(ran teams of surveyors)
 - ability to manage work and deadlines (ecology: writing reports to deadlines whilst managing survey work) (police: ensuring casefiles are prepared and managed to deadlines set by CPS)
-- Constant learning (legislation constantly being created and updated and had to keep up to date to ensure I was aware of the scope of my powers and responsibilities)
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
 
 
-#### Ability to learn quickly and continuation of learning. Teaching. Team Work. Need to add soft skills - public and client facing roles
+#### Soft Skills
 
+Over the course of my life I have developed my soft skills, which I would say are probably the most important skills for any role in life. I have been lucky enough to develop these skills in a number of environments, with people from all backgrounds and across multiple continents. I have worked with clients, the general public and customers across a number of sectors. Each different role has given me insight into how each person wants to be treated uniquely but I've found that everyone is at their happiest in a relaxed calm and friendly environment, which is what I try and offer to anyone I speak to.
+
+Communication, Collaboration, Adaptability and Organisation would be my top 4 soft skills that I naturally do but have also grown over the years. 
+
+**Communication** 
+There any many times communication has played a vital role. It has been a key component in diffusing escalating situations and understanding every person's point of view when working in the Metropolitan Police Service. During my time being an ecologist, it helped to ensure that clients fully understood the legal requirements when undertaking Ecological field studies for them as the legal ramifications could hurt their business both reputationally and financially. Furthermore if communication had not been clear within any of the teams that I worked in, then they would not have been nearly as successful as they were. 
+
+**Collaboration**
+I have had to collaborate and work with so many amazing people across my various careers. During my time studying at Makers, the majority of time was spent pair programming or working as part of a team on group projects. This has given me a great insight on how to work collaboratively and in an agile way on software engineering projects within a group. Whilst working as part of a group I learned to fill a number of roles as needed by the group. I have worked by pairing and having an even input, I have acted as a teacher to help with the group's understanding to ensure that all members of the team understood and could work effectively and confidently, I worked to debug issues for every member of my team as they needed me and worked independently to implement exciting new features. I gained these skills from a lifetime of working both within teams and independently.
+
+**Adaptability**
 - In both my previous careers I had to adapt and learn very quickly. 
 - Whilst at EcoSupport Ltd, I was working on ecological field work from my first day and had to ensure that all legislation was followed completely otherwise our clients could end up breaking the law and have serious ramifications on their financial success.
 - Within EcoSupport after just over a year, I was entrusted with making a training manual that could be used by all staff both present and future across all levels. Due to my approach to learning and excitement over it, I produced a document, which was used by not only new starters but also senior Ecologists at my company.
 - Whilst in the Metropolitan Police Service I undertook an intensive training course and was working as a Constable interacting with the public within just a few months. If I hadn't ensured that I was learning effectively and quickly and identifying where I could gather my information from then it could have had a serious impact on the public and reflect badly on the Police Service as a whole.
 - I took my ability to adapt and learn effectively and implemented it during my course at Makers. My team's final project was created with React for the front-end, which is not a technology that is taught at Makers. I took it upon myself to learn React for my final project. I succesffully learned the fundamentals of React and helped my teammates to understand the technology to the level that we could all feel comfortable utilising this brand new technology for pour final project.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Organisation**
+- At EcoSupport Ltd, I gained a client for the company and worked with them from understanding their needs and desires through to implementing them in the best way that suited the client whilst also following guidelines. I implemented surveys, managed the team of surveyors and wrote accurate reports for both the client and for the local council. I received great feedback stating how they really appreciated my professionalism, honesty and the quality of my work. This not only added to the reputation of my company, the client also stated that he would love to work with me again on upcoming projects, which increased revenue streams for the business. During this project I had to manage the clients time frame, whilst balancing this with my other roles and responibilities within the company. 
+- In the police I had to manage numerous cases from reporting up until they were submitted to court, I had to ensure that all case files were managed and progressed to get the best outcome for the victim within the timeline of legislation and to the deadlines set by the crown prosecution service. 
 
 ## Education
 
