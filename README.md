@@ -3,15 +3,15 @@ I’m an enthusiastic and dedicated software engineer who strives to learn new t
 
 ## Projects
 
-| Name                         | Description          | Main Technologies                     | Link                                                          |
-| ---------------------------- | -------------------- | --------------------------------------| ------------------------------------------------------------- |
-| **Travel Angel**             | A travel aid app     | React, MongoDB, Express, Node.js      | https://github.com/adamwoodcock98/travel-angel                |
-| **Koala**                    | A social media app   | MongoDB, Express, HandleBars, Node.js | https://github.com/adamwoodcock98/acebook-team-codebaddiez-f  |
+| Name                         | Description          | Main Technologies                     |
+| ---------------------------- | -------------------- | --------------------------------------|
+| [**Travel Angel**](https://github.com/adamwoodcock98/travel-angel)             | A travel aid app     | React, MongoDB, Express, Node.js      |
+| [**Koala**](https://github.com/adamwoodcock98/koala)                    | A social media app   | MongoDB, Express, HandleBars, Node.js |
 
 ### Travel Angel
-Travel Angel was my final project whilst studying at Makers. I worked alongside four other students in a collaborative and agile way, please check out the link above to see the github repository. This project was a full life cycle development of an application to aid with keeping track of all your travel documents. The idea behind Travel Angel was that when going on holiday there are so many bookings to keep track of with lots of different documents and these are generally spread over a number of emails and printed documents. Our team have had struggles with this exact issue when travelling and will carry a binder or loose documents when going away, so we thought we would try to solve this issue.
+Travel Angel was my final project whilst studying at Makers, we were given two weeks to complete a full life cycle development of an app. I worked alongside four other students in a collaborative and agile way, please check out the link above to see the github repository. This project was a full life cycle development of an application to aid with keeping track of all your travel documents. The idea behind Travel Angel was that when going on holiday there are so many bookings to keep track of with lots of different documents and these are generally spread over a number of emails and printed documents. Our team have had struggles with this exact issue when travelling and will carry a binder or loose documents when going away, so we thought we would try to solve this issue.
 
-**Technologies Used **
+**Technologies Used**
 - React
 - MongoDB Atlas
 - Nodejs
@@ -19,7 +19,7 @@ Travel Angel was my final project whilst studying at Makers. I worked alongside 
 - Jest
 - React testing library
 
-**Features**
+**Main Features**
 - Authentication created using Express Session, with passwords encrypted using BCrypt
 - Travel Angel utilises a flight API to autofill flight details using the flight number and date for an easier user experience
 - Storage of details for individual trips separately to improve user experience
@@ -28,7 +28,26 @@ Travel Angel was my final project whilst studying at Makers. I worked alongside 
 - All exceptions are caught and actioned
 
 ### Koala
-Koala was a group project that I worked on with 
+Koala was a group project that I worked on within a 6 person team. This project was designed to create a social media app over a 2 week period. I worked alongside a really great team and a lot was learned. This app was developed using the MEHN stack and at the beginning of the project, we had only ever used Nodejs. A small seed project was given to us as a means of starting, this included a basic Express backend with express session middleware, a couple of basic user authentication routes, with no encryption, a MongoDB Schema and a very basic front-end HTML index page. Due to the lack of knowledge about the technologies, we had to understand the seed project and learn how to utilise these technologies all within our two week deadline. [Please feel free to check it out.](https://github.com/adamwoodcock98/koala)
+
+**Technologies Used**
+- MongoDB, then we moved to MongoDB Atlas
+- Express
+- Handlebars
+- Nodejs
+- Jest
+- Cypress
+
+**Main Features**
+- User authentication including encryption via Bcrypt
+- Making posts
+- Liking posts
+- Adding comments to posts
+- Liking comments
+- Direct Messaging
+- Searching for users based on names with added whitespace and character handling
+- An editable profile page
+- Deployed on [Heroku](https://koala-acebook.herokuapp.com/)
 
 ## Work Experience
 
