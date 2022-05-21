@@ -136,10 +136,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Used Slack and zoom to effectively communicate with the team and coaches.
 - Used Trello to keep organised in the team.
 
-#### University Of Nottingham (2011 - 2016)
-
-- Biology
-- 2:2
+#### Biology Bachelor of Science (B.Sc.) - University Of Nottingham (2011 - 2016)
+#### A-levels in Biology, Chemistry and Mathematics - Hereford Sixth Form College
+#### 12 A*-C GCSEs from Wigmore High School
 
 #### Other qualifications
 - Codecademy Learn Ruby Course
@@ -150,5 +149,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 - As you can see above, I am a PADI Divemaster and absolutley love diving. I haven't had the chance to dive in the last few years and am feeling the pull of the water.
-- I used to play rugby 7 times a week when I was 18 and that passion has continued, although I am no longer playing, I absolutely loved watching England. Less so when they are losing.
+- I used to play rugby 7 times a week when I was 18 and that passion has continued, although I am no longer playing, I absolutely loved watching England. Less so when they are losing, which is all too often nowadays.
 - Travel. It has been too long since I have left the country but love exploring new places and experiencing new cultures. 
