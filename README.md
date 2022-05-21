@@ -18,6 +18,15 @@ Travel Angel was my final project whilst studying at Makers, we were given two w
 - Express
 - Jest
 - React testing library
+- Express Session
+- BCrypt
+- CORS
+- Mongoose
+- Multer
+- Validator
+- ES Lint
+- Axios
+- Moment
 
 **Main Features**
 - Authentication created using Express Session, with passwords encrypted using BCrypt
@@ -37,6 +46,12 @@ Koala was a group project that I worked on within a 6 person team. This project 
 - Nodejs
 - Jest
 - Cypress
+- Express Session
+- Mongoose
+- Morgan
+- Validator
+- ES Lint
+- BCrypt
 
 **Main Features**
 - User authentication including encryption via Bcrypt
