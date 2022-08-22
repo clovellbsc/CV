@@ -86,17 +86,7 @@ _Assistant Ecologist_
 - Having to continuously grow to understand new regulations and legislation.
 - Adapting to self-learning whilst ensuring the highest quality of work.
 
-## Skills
-
-- eye for detail (necessary to ensure that all evidence was identified at an incident and to ensure all reports and casefiles were accurate to ensure they weren't thrown out at court due to an error) (Ecology: ability to identify the smallest of signs of a protected species and to ensure that all reports going to
-- ability to adapt / calm under pressure - (police - all of it) (ecology - completing all work whilst under pressure from client to hit their deadlines)
-- ability to problem solve - (police - ensuring use of dynamic risk assessment and adapt to changes)
-- work independently or part of team - ecology + police
-- leadership - police (leading new people) and ecology(ran teams of surveyors)
-- ability to manage work and deadlines (ecology: writing reports to deadlines whilst managing survey work) (police: ensuring casefiles are prepared and managed to deadlines set by CPS)
-
-
-#### Soft Skills
+## Soft Skills
 
 Over the course of my life I have developed my soft skills, which I would say are probably the most important skills for any role in life. I have been lucky enough to develop these skills in a number of environments, with people from all backgrounds and across multiple continents. I have worked with clients, the general public and customers across a number of sectors. Each different role has given me insight into how each person wants to be treated uniquely but I've found that everyone is at their happiest in a relaxed calm and friendly environment, which is what I try and offer to anyone I speak to.
 
