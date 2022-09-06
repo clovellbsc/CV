@@ -1,4 +1,8 @@
 ## Chris Lovell
+
+📧 clovellbsc@gmail.com
+📍 Hampshire, UK / Happy to relocate anywhere in the UK
+
 I’m an enthusiastic and dedicated software engineer who strives to learn new things daily. Throughout my varied career I’ve learnt to work under immense pressure and adapt to different situations. Along the way, I’ve been able to build great relationships and understand good collaboration within a team. I first developed my passion for coding when I downloaded an app on my phone to try it out and continued from there. I designed a very basic BMI calculator, which I showed off to everyone that would take a look. From there I decided I wanted to move forward with software engineering as my career and that's when I decided to join Makers, an intensive 16 week coding bootcamp. After achieving more than I could ever have dreamed of, I am now seeking a role where I can continue to develop my technical skills in a supportive and challenging environment.
 
 ## Projects
